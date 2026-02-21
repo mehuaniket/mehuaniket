@@ -2,11 +2,9 @@
 
 ### Making complex infrastructure predictable and boring.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuaniket&label=Profile views&color=0e75b6&style=flat" alt="mehuaniket" /> </p>
+- 👨‍💻 All of my projects are available at **[my projects page](https://mehuaniket.com/projects)**
 
-- 👨‍💻 All of my projects are available at **[https://mehuaniket.com/projects](https://mehuaniket.com/projects)**
-
-- 📝 I regularly write articles on **[https://mehuaniket.com/blog](https://mehuaniket.com/blog)**
+- 📝 I regularly write articles on **[my blog](https://mehuaniket.com/blog)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
